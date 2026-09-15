@@ -1,0 +1,13 @@
+{
+  "name": "newmap-ai-visibility",
+  "displayName": "New Map AI Visibility",
+  "version": "1.0.0",
+  "description": "Ask which AI engines recommend a brand, who they name instead, and why. Free audit for any website; live weekly data for New Map clients.",
+  "author": { "name": "New Map (Brinchmann Consulting UG)", "email": "hello@thenewmap.ai", "url": "https://thenewmap.ai" },
+  "homepage": "https://thenewmap.ai",
+  "repository": "https://github.com/thenewmap/newmap-ai-visibility",
+  "license": "MIT",
+  "keywords": ["ai visibility", "geo", "aeo", "chatgpt", "perplexity", "brand", "marketing", "seo"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
