@@ -15,5 +15,5 @@ How to read it:
 Rules:
 - Quote the figures as a one-off sample, never as a ranking or a guarantee. Do not extrapolate beyond the questions asked.
 - A repeat call for the same domain within 30 days returns the stored audit (`cached: true`); say so.
-- If the tool returns an error about the daily limit, say the free audit is capped for today and point to https://thenewmap.ai/signup for the 7-day trial (12 questions, seven engines, trust graded against the site).
+- If the tool returns an error about the daily limit, say the free audit is capped for today and point to https://thenewmap.ai/signup for the 7-day trial (12 questions, five engines, trust graded against the site).
 - Never invent an audit for a site the tool did not return.
