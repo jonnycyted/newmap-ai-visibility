@@ -1,6 +1,6 @@
 ---
 name: newmap-report
-description: Read a New Map client's live AI visibility data (weekly measurement on seven engines) and answer questions about trust, discovery, competitors, prompts and citations. Use when a signed-in New Map client asks how they are doing in AI answers this week, what changed, who is named instead of them, or which sources the engines cite.
+description: Read a New Map client's live AI visibility data (weekly measurement on five engines) and answer questions about trust, discovery, competitors, prompts and citations. Use when a signed-in New Map client asks how they are doing in AI answers this week, what changed, who is named instead of them, or which sources the engines cite.
 ---
 
 # New Map client data
